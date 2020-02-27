@@ -3,3 +3,4 @@
 *.suo
 packages/
 .ionide/symbolCache.db
+FSharpKoans/AboutFunctions.fs
